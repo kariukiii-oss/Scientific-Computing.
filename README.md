@@ -65,5 +65,3 @@ The NumPy heart-rate example calculates the mean, minimum, maximum, and readings
 python "1.NumPy/Heartrate.py"
 ```
 
-Directories are numbered to follow a learning progression, while each script demonstrates a small scientific-computing scenario.
-
